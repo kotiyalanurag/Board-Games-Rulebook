@@ -1,0 +1,45 @@
+Llama 3 Response
+
+1. Query -> "How many cards in an UNO deck?"
+
+   Response: According to the provided text, there are 112 cards in a standard Uno deck.
+
+2. Query -> "How do you win in UNO?"
+   
+   Response: According to the provided context, the first player to score 500 points wins the game. 
+   Additionally, if a player has no cards left at the end of each hand, they also win that round. However, 
+   the ultimate winner is determined by the player with the lowest points among all players who have reached 
+   500 points or more.
+
+3. Query -> "How to play UNO?"
+   
+   Response: According to the provided context, here's how to play UNO:
+
+    1. If you draw a card you can play, play it.
+    2. Otherwise, play moves to the next person.
+
+    Before playing your next-to-last card, you must say "UNO".
+
+    That's it! Simple rules, indeed.
+
+4. Query -> "How many players can play Monopoly?"
+   
+   Response: According to the context, 2 to 8 players can play Monopoly.
+
+5. Query -> "What are the speed die rules in Monopoly?"
+   
+   Response: According to the given context, the Speed Die rules in Monopoly are as follows:
+
+    1. Roll the Speed Die along with the two white dice on your turn.
+    2. Depending on what you rolled, do the following:
+        * If you roll a combination that allows you to use the Speed Die (not specified what this is), 
+        you can start using it before others.
+
+    Note: The rest of the rules are described as "additional" and assume you already know how to play 
+    Monopoly according to the classic rules.
+
+6. Query -> "What is the Banker in Monopoly?"
+   
+   Response: According to the provided context, the Banker is a player who will also make a good Auctioneer. 
+   The Banker's main role is to keep their personal funds and issue as much more as needed by writing on any 
+   ordinary paper.
