@@ -23,7 +23,7 @@ def load_docs(data_dir):
     
     return document_loader.load()
 
-def split_docs_into_chunks(documents, chunk_size = 500, chunk_overlap = 50):
+def split_docs_into_chunks(documents, chunk_size = 250, chunk_overlap = 25):
     
     """ A function that split a document into chunks of specific sizes like 500 characters.
 
